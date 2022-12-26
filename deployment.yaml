@@ -18,7 +18,7 @@ spec:
         app: gogs
     spec:
       containers:
-      - image: infinityofcore/test:13
+      - image: infinityofcore/test:18
         name: gogs
         resources: {}
 status: {}
